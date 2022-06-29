@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+https://github.com/bytefilp
+
+## RemoteCamp
+- Follow us on [Twitter](https://twitter.com/remote_camp)
+- Join us on [Discord](https://discord.gg/remotecamp)
+
 <!--
 
 **Here are some ideas to get you started:**
